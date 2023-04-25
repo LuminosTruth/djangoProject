@@ -17,4 +17,4 @@
 
 # Решено
 
-![image](https://user-images.githubusercontent.com/119428680/234342361-cb940328-5dd5-421a-ac46-7bbf76e9d2f8.png)
+![image](https://user-images.githubusercontent.com/119428680/234342558-6450a5aa-e887-46c0-8997-7c6a15e88cfd.png)
