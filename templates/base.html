@@ -1,0 +1,23 @@
+{% load menu_tags %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .active {
+            color: red;
+        }
+
+        .not {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+{% autoescape off %}
+    {% draw_menu "main_menu" %}
+    {% draw_menu "prosto_menu" %}
+{% endautoescape %}
+</body>
+</html>
